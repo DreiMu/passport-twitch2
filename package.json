@@ -1,0 +1,19 @@
+{
+  "name": "passport-twitch2",
+  "version": "1.0.0",
+  "description": "Twitch with the newest api for Passport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DreiMu/passport-twitch2.git"
+  },
+  "author": "DreiMu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DreiMu/passport-twitch2/issues"
+  },
+  "homepage": "https://github.com/DreiMu/passport-twitch2#readme"
+}
